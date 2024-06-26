@@ -1,1 +1,23 @@
+.main{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
 
+.left{
+     margin-top: 200px;
+    border-top-left-radius:100px;
+    border-top-right-radius: 100px;
+    border:3px solid white;
+    height: 400px;
+    width: 800px;
+    ruby-position: before;
+    position: relative;
+}
+.right{
+
+    height: 400px;
+    width: 800px;
+    position: absolute;
+}
